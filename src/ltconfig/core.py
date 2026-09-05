@@ -314,7 +314,7 @@ class Core(CorePluginBase):
 
   def _normalize_settings(self, settings):
 
-    for k in settings.keys():
+    for k in list(settings.keys()):
       if k not in self._initial_settings:
         del settings[k]
       else:
