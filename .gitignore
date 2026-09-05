@@ -1,0 +1,6 @@
+# Compiled Python leftovers - rebuilt automatically, never commit them
+__pycache__/
+*.pyc
+*.pyo
+# Build output
+ltConfig-2.0.0-fixed.egg

@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    ltConfig = ltconfig:CorePlugin
+    [deluge.plugin.gtk3ui]
+    ltConfig = ltconfig:GtkUIPlugin
+    [deluge.plugin.web]
+    ltConfig = ltconfig:WebUIPlugin
+    

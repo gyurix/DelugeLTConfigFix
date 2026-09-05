@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ltConfig
+Version: 2.0.0
+Summary: Modify libtorrent settings
+Home-page: http://github.com/ratanakvlun
+Author: Ratanak Lun
+Author-email: ratanakvlun@gmail.com
+License: GPLv3
+Description: Modify libtorrent settings
+Platform: UNKNOWN
